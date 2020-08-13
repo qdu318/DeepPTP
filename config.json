@@ -1,0 +1,4 @@
+{
+    "train_set": ["train"],
+    "eval_set": ["eval"]
+}
