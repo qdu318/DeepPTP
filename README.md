@@ -1,7 +1,5 @@
 # Deep Pedestrian Trajectory Prediction for Trffic Intersection (DeepPTP)
-**Author: Zhiqiang Lv**
 
-**Institute of Ubiquitous Networks and Urban Computing, Qingdao University, China**
  ## Data Set
  https://www.th-ab.de/ueber-uns/organisation/labor/kooperative-automatisierte-verkehrssysteme/trajectory-dataset/
  ## Requirements
